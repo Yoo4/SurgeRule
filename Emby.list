@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,app.emby.media,Emby
 DOMAIN-SUFFIX,emby.immtel.com,Emby
 DOMAIN-SUFFIX,emby.yhcnzd.top,Emby
 IP-CIDR,150.230.47.113/16,Emby
+DOMAIN-SUFFIX,cf.odysseyplus.site,Emby
+DOMAIN-SUFFIX,pornemby.club,Emby
+IP-CIDR,159.223.75.12/16,Emby
+IP-CIDR,128.199.208.120/16,Emby
